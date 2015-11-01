@@ -3,6 +3,8 @@ Erm, can I use OoT3D instead of Ironfall? The answer is probably yes.
 
 With expressions of severe indebtedness to smea and yellows8.
 
+***This repository is no longer maintained.*** Try [this one](https://github.com/phase/oot3dhax_installer) instead.
+
 ## Instructions:
 * (Optional) Backup and then wipe your OoT3D saves (start from home menu, hold down ABXY). The installer will not do this for you.
 * Put .smdh, .xml, .3dsx files in sd:/3ds/ootsdhax_installer/, along with the save0x.bin.* files (optionally just the one for your region). Just download the 3ds directory from the repo and move the folder appropriately.
